@@ -253,7 +253,7 @@ input:-webkit-autofill:active {
   z-index: -1;
 }
 .btn:hover::before {
-  animation: btn-hover 0.6s cubic-bezier(0.72, 0.16, 0.345, 0.875) both;
+  animation: btn-hover 0.8s cubic-bezier(0.72, 0.16, 0.345, 0.875) both;
   width: 100%;
 }
 .btn:hover {
